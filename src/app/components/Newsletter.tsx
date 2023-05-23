@@ -14,8 +14,8 @@ function ThankYouMessage({ onDismiss }: { onDismiss: () => void }) {
           </div>
           <div className="ml-3">
             <p className="text-sm font-medium text-green-800">
-              Thank you for signing up! You'll be the first to hear about what
-              we're building at KnifeRoll.
+              Thank you for signing up! You’ll be the first to hear about what
+              we’re building at KnifeRoll.
             </p>
           </div>
           <div className="ml-auto pl-3">

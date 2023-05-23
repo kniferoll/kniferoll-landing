@@ -10,7 +10,7 @@ export default function CTA() {
               Drop us a line today.
             </h2>
             <p className="mx-auto mt-6 max-w-xl text-lg leading-8 text-gray-600">
-              There's so much more to KnifeRoll. Just like it's namesake, KnifeRoll is a full chef's toolkit. Prep lists and team management will also be included in launch and our roadmap includes ordering, scheduling, menu management, and more. Beta launch is planned for June 2023. Yes, chef.
+              There’s so much more to KnifeRoll. Just like its namesake, KnifeRoll is a full chef’s toolkit. Prep lists and team management will also be included in launch and our roadmap includes ordering, scheduling, menu management, and more. Beta launch is planned for June 2023. Yes, chef.
             </p>
             <div className="mt-10 flex items-center justify-center gap-x-6">
               <Link
